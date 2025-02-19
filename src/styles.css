@@ -5,3 +5,7 @@
 .container span {
   margin-left: 5px;
 }
+.container .icon {
+  height: 20px;
+  margin-left: 5px;
+}
